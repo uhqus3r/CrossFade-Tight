@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Crossfade Tight",
+    "description": "Enchaînement type crossfade/automix pour Spotify Free : fade-out, passage anticipé au morceau suivant, fade-in. Menu de réglages intégré.",
+    "main": "crossfade-tight.js",
+    "readme": "README.md",
+    "authors": [
+      { "name": "Us3r", "url": "https://github.com/TON_PSEUDO" }
+    ],
+    "tags": ["crossfade", "automix", "fade", "audio", "playback"]
+  }
+]
